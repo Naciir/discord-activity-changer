@@ -2,9 +2,9 @@
 import pypresence
 import time
 import sys
-# Where Winds Meet Application ID (you'll need to find the official one)
+
 # This is a placeholder - replace with the actual Discord Application ID
-CLIENT_ID = "1447377764314513600"
+CLIENT_ID = "1447377"
 
 
 def set_presence():
