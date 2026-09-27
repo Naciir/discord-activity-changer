@@ -67,7 +67,7 @@ def set_presence():
 
 if __name__ == "__main__":
     print("╔═══════════════════════════════════════════════════╗")
-    print("║  Discord Rich Presence - Where Winds Meet        ║")
+    print("║  Discord Rich Presence  ║")
     print("╔═══════════════════════════════════════════════════╗")
     print()
     set_presence()
