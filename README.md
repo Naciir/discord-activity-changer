@@ -1,4 +1,4 @@
-# Where Winds Meet Discord Activity
+# Discord Activity Changer
 
 A small Python script that sets a custom Discord Rich Presence activity for **Where Winds Meet**. It keeps the activity active until you stop the script.
 
